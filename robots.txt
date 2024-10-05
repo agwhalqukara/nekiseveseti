@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nekiseveseti.pages.dev/sitemap.xml
